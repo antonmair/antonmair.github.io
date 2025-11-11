@@ -154,7 +154,7 @@ body {
 @media screen and (orientation: landscape){
   .image {
   
-    content: url("../img/bahn3.png");
+    content: url("../img/bahn5.png");
     width: 100%;
     margin-bottom: 0px;
     display: block;
@@ -164,7 +164,7 @@ body {
 @media screen and (orientation: portrait){
   .image {
   
-    content: url("../img/imagemobile.png");
+    content: url("../img/imagemobile5.png");
     width: 100%;
     margin-bottom: 0px;
     display: block;
