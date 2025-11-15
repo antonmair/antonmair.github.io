@@ -173,7 +173,10 @@ body {
 /* #endregion*/
 
 
-
+/*image*/
+.mob{
+  content: url("../img/linien.png");
+}
 /* daten.php*/
 
 
