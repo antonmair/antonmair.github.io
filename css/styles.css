@@ -176,6 +176,8 @@ body {
 /*image*/
 .mob{
   content: url("../img/linien.png");
+  width: 100%;
+  display: block;
 }
 
 
