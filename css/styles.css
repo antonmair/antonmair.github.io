@@ -164,8 +164,8 @@ body {
 @media screen and (orientation: portrait){
   .image {
   
-    content: url("../img/imagemobile5.png");
-    width: 100%;
+    /*content: url("../img/imagemobile5.png");*/
+    width: 0%;
     margin-bottom: 0px;
     display: block;
   }
